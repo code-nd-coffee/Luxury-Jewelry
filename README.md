@@ -28,8 +28,9 @@ To get a local copy up and running, follow these simple steps.
    ```bash
    git clone https://github.com/yourusername/luxury-jewelry-website.git
 2. Navigate to the project directory
-  ```bash
-  cd luxury-jewelry-website
+     ```bash
+   cd luxury-jewelry-website
+
 3. Open index.html in your web browser to view the website
 
 
