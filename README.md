@@ -14,7 +14,7 @@ This project is a captivating dark-themed front-end website for "Luxury Jewelry,
 - **JavaScript:** Implemented for dynamic icon updates and additional interactivity.
 
 ## Screenshots
-![Homepage Screenshot](path_to_screenshot)
+[![Homepage Screenshot](path_to_screenshot)](https://github.com/code-nd-coffee/Luxury-Jewelry-/tree/main/Output)
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps.
